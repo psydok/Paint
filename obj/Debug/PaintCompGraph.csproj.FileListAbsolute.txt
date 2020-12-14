@@ -1,0 +1,10 @@
+C:\Users\max\source\repos\PaintCompGraph\bin\Debug\PaintCompGraph.exe.config
+C:\Users\max\source\repos\PaintCompGraph\bin\Debug\PaintCompGraph.exe
+C:\Users\max\source\repos\PaintCompGraph\bin\Debug\PaintCompGraph.pdb
+C:\Users\max\source\repos\PaintCompGraph\obj\Debug\PaintCompGraph.csprojAssemblyReference.cache
+C:\Users\max\source\repos\PaintCompGraph\obj\Debug\PaintCompGraph.Form1.resources
+C:\Users\max\source\repos\PaintCompGraph\obj\Debug\PaintCompGraph.Properties.Resources.resources
+C:\Users\max\source\repos\PaintCompGraph\obj\Debug\PaintCompGraph.csproj.GenerateResource.cache
+C:\Users\max\source\repos\PaintCompGraph\obj\Debug\PaintCompGraph.csproj.CoreCompileInputs.cache
+C:\Users\max\source\repos\PaintCompGraph\obj\Debug\PaintCompGraph.exe
+C:\Users\max\source\repos\PaintCompGraph\obj\Debug\PaintCompGraph.pdb
